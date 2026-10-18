@@ -1,5 +1,4 @@
-Berikut adalah kodingan lengkap file index.html untuk aplikasi InventoryQu Enterprise Edition.
-Anda cukup menyalin (copy) seluruh kode di bawah ini, lalu simpan ke dalam sebuah file baru dengan nama index.html di laptop atau HP Anda:
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
